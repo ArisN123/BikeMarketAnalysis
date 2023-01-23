@@ -2,7 +2,9 @@
 
 As part of the New Methods in Data Analytics course I am completing within my Bachelor's Degree, I was tasked with analysing the Rotterdam bike rental market in order to produce a service that in theory would attract the largest audience.
 
-The data analysed was collected through a questionare produced on Qualtrics and distributed online. 
+The data analysed was collected through a questionnaire produced on Qualtrics and distributed online. 
+
+After collecting the data from the questionnaire, the data was cleaned. I removed incomplete responses and almost complete responses were filled in with the mode values of the responses.
 
 The analysis was done through inputing data into the program JMP and conducting attribute analysis. 
 

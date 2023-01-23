@@ -1,4 +1,4 @@
-# BikeMarketAnalysis
+# Attribute Analysis- BikeMarket
 
 As part of the New Methods in Data Analytics course I am completing within my Bachelor's Degree, I was tasked with analysing the Rotterdam bike rental market in order to produce a service that in theory would attract the largest audience.
 
